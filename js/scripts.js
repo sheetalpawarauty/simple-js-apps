@@ -18,3 +18,6 @@ document.write(doubleSize);
 //Doubling your doubleSize variable and subtracting half of the value of your original size variable
 let minSize = (doubleSize*2) - (size/2);
 document.write(minSize);
+
+let favoriteFood = 'Spicy Food';
+document.write(favoriteFood);
